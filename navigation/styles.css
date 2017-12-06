@@ -1,0 +1,84 @@
+.button { 
+  font-size: 100%;
+  font-family: helvetica;
+  font-weight: 700;
+  color: #ffea1d;
+  border-size:;
+  border-type:;
+  height: 30px;
+  width: 10%
+  transition: ;
+  position: relative;
+  margin: 0;
+  line-height: 1.2;
+  background-color: $color-alpha;
+}
+
+.button-primary { 
+  background: ;
+}
+
+.button-secondary { 
+}
+
+.button-danger { 
+
+}
+
+.button: hover {
+cursor: pointer
+}
+
+
+nav.main-nav {
+	text-align: center;
+	font-family: 'helvetica', sans-serif;
+}
+
+nav.main-nav ul {
+	list-style: none;
+}
+
+nav.main-nav ul li {
+	display: inline-block;
+}
+
+nav.main-nav ul li a {
+	color: #333333;
+	text-decoration: none;
+	border: 1px solid #333333;
+	padding: 8px;
+	transition: all .5S;
+  border-radius: 3px
+}
+
+nav.main-nav ul li a:hover {
+	color: #ffffff;
+	background: #333333;
+}
+
+div {
+  	position: absolute;
+  	bottom: 1.5em;
+  	right: 1.5em;
+}
+
+span {
+  	display: block;
+  	font-size: 0.9em;
+}
+
+h1 {
+	position: center;
+  	top: 50%;
+  	width: 100%;
+  	margin:
+    top: 0;
+    bottom: 0;
+}
+  
+font-size: 2.75em;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+text-align: center;
+transform: translateY(-50%)

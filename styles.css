@@ -1,0 +1,47 @@
+/*  
+style.css
+
+---------
+
+ 
+
+Par clarence garcia
+
+*/
+
+body /* corps */
+
+{
+	font-family: helvetica;
+}
+
+
+h1 /* titre */
+
+{
+	color: black;
+	font-size: 50px;
+}
+
+
+em /* mots à souligner */
+{
+	color:blue;
+	font-size: 20px;
+}
+
+
+p /* paragraphes */
+{
+    color: black;
+    text-align: justify;
+    font-size:12px;
+}
+
+.introduction
+
+{
+
+    color: grey;
+
+}
